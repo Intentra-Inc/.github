@@ -72,6 +72,19 @@ We don't pick winners. ACLS works with Visa TAP, Google AP2, Stripe/OpenAI ACP, 
 Intentra is Switzerland. We serve the entire ecosystem—agent platforms, merchants, payment processors—without favoritism.
 
 ---
+Projects are published incrementally and marked clearly as experimental or production-ready.
+
+## Security
+
+If you believe you have found a security issue, please report it responsibly to:
+security@intentra.co
+
+## Status
+
+Intentra is early-stage and evolving.
+APIs, schemas, and implementations may change.
+
+---
 
 ## Get Involved
 
@@ -91,3 +104,5 @@ Intentra is Switzerland. We serve the entire ecosystem—agent platforms, mercha
 ---
 
 *Building trust for the agent-initiated economy.*
+---
+© Intentra
